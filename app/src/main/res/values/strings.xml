@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">OMDb Movies</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="my_movies_title">Meus Filmes</string>
+
+    <string name="progress_dialog_message">Procurando filme&#8230;</string>
+
+    <string name="searchbox_query_hint">Digite um filme&#8230;</string>
+
+    <!-- Movie description -->
+    <string name="movie_title">Título: </string>
+    <string name="movie_contry">País de origem:</string>
+    <string name="movie_genre">Gênero:</string>
+    <string name="movie_runtime">Duração:</string>
+    <string name="movie_released">Lançamento:</string>
+    <string name="movie_plot">Sinopse:</string>
+
+    <!-- Alert PopUp -->
+    <string name="alert_message">Você quer adicionar esse filme aos Meus Filmes?</string>
+    <string name="alert_alternative_yes">Sim</string>
+    <string name="alert_confirmed_action">Filme adicionado aos Meus Filmes.</string>
+    <string name="alert_alternative_no">Não</string>
+
+</resources>
